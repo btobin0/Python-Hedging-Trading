@@ -1,9 +1,8 @@
 ## Python - Hedging & Trading
 
 
-#### Here is my python repository for hedging and trading examples from around the internet that I either found interesting or wanted to see work in a real environment using libraries like alphaVantage or yfinance. 
 
-
+#### Here is my python repository for hedging and trading examples that I found interesting or wanted to see work in a real environment. Used libraries <b>AlphaVantage<b/> or <b>yfinance<b/> for envirment analysis and testing. 
 
 #### If you have a project idea or have any suggestions, I am available to contact about the code, consulting, or just saying hi.
 
