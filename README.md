@@ -2,7 +2,7 @@
 
 
 
-#### Here is my python repository for hedging and trading examples that I found interesting or wanted to see work in a real environment. Used libraries _*AlphaVantage*_ or <b>yfinance<b/> for envirment analysis and testing. 
+#### Here is my python repository for hedging and trading examples that I found interesting or wanted to see work in a real environment. Used libraries _*AlphaVantage*_ or __*yfinance*__ for envirment analysis and testing. 
 
 #### If you have a project idea or have any suggestions, I am available to contact about the code, consulting, or just saying hi.
 
